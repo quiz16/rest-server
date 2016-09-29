@@ -1,0 +1,18 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "RESTful api using node and express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "Reynald Jo Armonia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
